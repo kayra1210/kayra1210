@@ -1,0 +1,11 @@
+pkg güncellemesi
+paket yükseltme
+pkg kurulum git
+pkg python2'yi kurun
+git klonu
+https://github.com/shubhamg0sai/hack-wifi
+cd hack-wifi
+chmod +x Shubham.py
+pip2 install requests
+pip2 install mechanize
+python Shubham.py
